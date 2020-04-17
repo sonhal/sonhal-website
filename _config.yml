@@ -1,0 +1,31 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            SonHal
+tagline:          'Norwegian Developer blog'
+description:      'A Norwegian software developer personal website and sometimes blog.'
+url:              https://sonhal.github.com
+baseurl:          /
+
+author:
+  name:           'Sondre Halvorsen'
+  url:            https://github.com/sonhal
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/sonhal
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - kramdown
