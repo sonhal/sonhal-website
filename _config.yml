@@ -10,8 +10,9 @@ permalink:        pretty
 title:            SonHal
 tagline:          'Norwegian Developer blog'
 description:      "A Norwegian software engineer"
-url:              https://sonhal.github.com
+url:              https://www.sonhal.no
 baseurl:          /
+root:             /
 
 author:
   name:           'Sondre Halvorsen'
