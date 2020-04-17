@@ -23,3 +23,9 @@
 .introduction {
     padding-bottom: 2em;
 }
+
+@media (max-width: 48em) {
+    .sidebar-nav-item img {
+        margin: auto;
+      }
+  }

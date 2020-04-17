@@ -1,6 +1,9 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <img class="sidebar-img" src="{{ site.baseurl }}public/img/me.png" />
+
+    <div class="sidebar-nav-item">
+      <img class="sidebar-img" src="{{ site.baseurl }}public/img/me.png" />
+    </div> 
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.baseurl }}">
@@ -26,7 +29,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      
+
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub page</a>
       <a class="sidebar-nav-item" href="https://www.linkedin.com/in/sondre-halvorsen-350ba8114/">Linkedin</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
