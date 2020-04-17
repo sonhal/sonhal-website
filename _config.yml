@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            SonHal
 tagline:          'Norwegian Developer blog'
-description:      'A Norwegian software developer personal website and sometimes blog.'
+description:      'A Norwegian software developer's personal website and sometimes blog.'
 url:              https://sonhal.github.com
 baseurl:          /
 

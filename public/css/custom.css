@@ -1,0 +1,25 @@
+
+.sidebar-img {
+    border-radius: 50%;
+    width: 10em;
+}
+
+.post-card {
+    border: black solid 1px;
+    padding: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.post-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.section-title {
+    text-decoration: underline;
+    padding: 0 1em 1em 0;
+}
+
+.introduction {
+    padding-bottom: 2em;
+}
